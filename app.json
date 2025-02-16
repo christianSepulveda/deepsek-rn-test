@@ -15,7 +15,8 @@
     },
     "ios": {
       "supportsTablet": true,
-      "jsEngine": "jsc"
+      "jsEngine": "jsc",
+      "bundleIdentifier": "com.raverackapp.mobileexample"
     },
     "android": {
       "adaptiveIcon": {
